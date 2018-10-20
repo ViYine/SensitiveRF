@@ -156,7 +156,7 @@ class configReader():
         plt.ylabel('指标贡献率得分',fontsize=20)
         plt.title(self.indexSocre +'指标体系贡献率分析')
         #plt.show()
-        plt.savefig(+filename +'.png',bbox_inches = 'tight',dpi=256)
+        plt.savefig(filename +'.png',bbox_inches = 'tight',dpi=256)
 
 
     def run(self,n,f,filename):
