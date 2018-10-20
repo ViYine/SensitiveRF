@@ -1,0 +1,19 @@
+{
+    "InfoTransferingCapability": {
+        "type": 1,
+        "Index": [
+            "linkDataSent",
+            "linkDataReceived", 
+            "linkLossRatio" ,
+            "linkUtilization"
+        ]
+    },
+    "routingCapability": {
+        "type": 0,
+        "Index": [
+            "routingConvergenceTime",
+            "routingProtocolOverhead",
+            "averageHops"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "tableName1": {
+        "type": 0,
+        "Index":[
+            "IndexName1",
+            "IndexName2",
+            "IndexName3"
+        ]
+    },
+    "tableName2": {
+        "type" : 1,
+        "Index": [
+            "IndexName4",
+            "IndexName5"    
+        ]
+    }
+}
